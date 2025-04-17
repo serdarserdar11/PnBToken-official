@@ -19,6 +19,11 @@ PnB Token is a meme-driven, community-powered token built on the BSC network –
 
 ![PNB Logo](assets/0xA721dD94f376cE50F6b0571Fc2d2CB015710e90d/logo.png)
 
+<p align="center">
+  <img src="./2fffdee9-0d82-4ddf-9602-be4feab2e0b4.png" alt="PnB Logo" width="200"/>
+</p>
+
+
 ---
 
 ## Contact
